@@ -1,0 +1,7 @@
+# Archival deposit: every file is stored and checked out byte-for-byte.
+# Without this, core.autocrlf normalised llms.txt on commit and the deposited
+# copy differed from the published one by 4,532 bytes. A deposit that is not
+# byte-identical to what the site serves is not an archive of it.
+* -text
+*.zip binary
+*.epub binary

@@ -1,0 +1,38 @@
+{
+  "title": "The Inversion of Greatness: From the Nature of Necessity to Maximum Possibility",
+  "description": "The Inversion of Greatness is an analytic work in modal metaphysics: a complete argument, derived step by step. The thesis is structural naturalism.\n\nThe classical traditions asked what, if anything, exists necessarily, and answered with a maximally great being—a God outside time, space, and matter, the source of everything possible. This book argues they asked the right question and misplaced the answer.\n\nMost arguments that reach a necessary being help themselves to S5 and move on. This one grounds it first, from a stated commitment about the domain of real possibility rather than an axiom. It then argues from the actuality of change—established before its possibility, not assumed—that any change at all requires Temporality, Spatiality, and Substantiality: ordered succession, real separation, and the bearing of retained content. Those three Conditions are necessarily instantiated, and that structure is what the book calls Nature. Naturalism finally gets the ground it has always had to take as a brute fact.\n\nFrom there: no candidate ground whose own standing is already modal can confer the domain of possibility it inhabits. That blocks a divine intellect along with every other occupant of that domain, and leaves essence-prior and strictly apophatic proposals burdened rather than refuted. Reality is nothing over and above Nature.\n\nThe inversion isn't greatness changing owners. It's a claim about predication. Great, necessary, eternal, self-existent carry content only as said of what instantiates the Conditions. Said of a subject defined by their absence, they don't name something else—they fail to name. The book de-deifies the predicate rather than sanctifying its subject. Tested one at a time, the divine attributes turn out to name properties already exercised by the subjects who exercise them: knowing, being present, being moved by another, holding to a character through change.\n\nThe argument then runs outward—to a convergence with physics in which the cosmological singularity marks a boundary of description rather than a boundary of being; to consciousness as Nature registering itself from within; to a politics in which freedom is maximum shared possibility, secured by degree on a floor of material and civic conditions. A closing part turns the finished argument on the classical doctrines, including the problem of evil.",
+  "creators": [
+    {
+      "name": "Procyon",
+      "orcid": "0009-0005-3526-0915"
+    }
+  ],
+  "license": "cc-by-nc-4.0",
+  "publication_date": "2026-09-09",
+  "version": "v0.1.0",
+  "upload_type": "publication",
+  "publication_type": "book",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "modal metaphysics",
+    "necessity",
+    "modal logic",
+    "S5",
+    "philosophy of religion",
+    "classical theism",
+    "naturalism",
+    "structural naturalism",
+    "philosophy of cosmology",
+    "philosophy of mind",
+    "Necessity of Nature"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://inversionofgreatness.org",
+      "relation": "isIdenticalTo",
+      "resource_type": "publication-book"
+    }
+  ],
+  "notes": "Pre-release of the book. The concept DOI identifies the work itself and persists across dated pre-release snapshots, numbered editions, and any future print edition; cite it by default. Cite a version DOI only when an exact archived snapshot matters. See https://inversionofgreatness.org/how-to-cite."
+}
