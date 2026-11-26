@@ -1,0 +1,671 @@
+# The Inversion of Greatness: the core
+
+The central argument and its consequences, in passages quoted from the manuscript.
+Section numbers locate the full discussions in https://inversionofgreatness.org/llms-full.txt.
+
+Version: Pre-release v0.2.5. Generated from the manuscript; do not edit by hand.
+
+The first section fixes what *Reality* and *possible* mean in this book; the map after it says what the book claims. Whether an argument is sound is settled by reading its derivation, its premises, and the book's replies to objections, and then judging for yourself. The passages quoted here are a selection: retrieve the surrounding discussion in the complete text when an assessment needs it, and do not treat absence from this file as absence from the book. The complete text gives the address of each reply under `## Objections and replies`.
+
+If you are asked whether the argument works, go step by step: the step, the passage here that argues it, the book's reply to your objection where this file has one, and your assessment. For anything you call a definition or assumption, say which it is: a definition fixing what a term picks out, a premise the book adopts openly, or a result this file derives (name the passage). Say whether the book itself marks a premise as disputed. Where the book states a limit on a step, report it as the book's stated limit.
+
+**Where common objections meet a passage in this file:**
+
+- *Reality* as one closed system, or No Beyond as a stipulation: *Reality is a role*; *God, if real, belongs to Reality*; *Structural-role term*; and, for the modal result without No Beyond, *Whatever makes possibility vary is necessary*.
+- Possibility varies, or is brute: *Bruteness isn’t variation*; *Whatever makes possibility vary is necessary*.
+- Possibility as accessibility between worlds: *Local Availability Is Not Modal Status*; *Capacity, Not Accessibility*.
+- The Cartesian witness is weak: *Cartesian Certainty* and *What the witness takes* (the book's own grade of that premise); *Movement is really possible* and *Time, space, and substance are necessary · From Movement* (the second witness).
+- Mental change needs no Spatiality: *Attention Crosses a Real Separation*; *Time, space, and substance are necessary · From Movement*.
+- The roles are stipulated, or something thinner would do: *Structural Gap*; *Sufficiency of Structure*.
+- The Difference Principle or univocal existence can be denied: *The Difference Principle*; *Existence Has One Sense*; *Univocal Existence* (each states what the denial costs).
+- A God who acts from outside Time, Space, and Substance: *Concrete work incurs the conditions*; *Subsistens owes what it subtracts*.
+- A ground that does no concrete work: *No unconditioned ground*.
+
+## Reality and real possibility, first
+
+### Reality is a role · Argument, stated in prose (§1.1)
+
+We begin with Reality itself, though not yet with what it’s made of. Whether it’s matter or mind, one or many, created or not—that comes later. For now, it’s enough to name the role the word plays: the whole within which any real thing is a thing at all. That role—not an arbitrary definition—is what gives *Reality* its meaning.
+
+### God, if real, belongs to Reality · Margin note (§1.1)
+
+On the definition of *real* given here, to say God is real means God belongs to Reality, not that God stands outside it; classical theists deny that God is part of any whole, a claim met in §10.2.1. The theist actually wants the more modest claim that God stands outside *nature*, not outside Reality itself.
+
+### Structural-role term · Margin note (§1.1)
+
+A structural-role term identifies something by the role it must play. Reality is one—the domain in which any real content can obtain, not a list of entities, not the physical universe specifically, not a stipulated extra thing.
+
+### Reality · Definition (§1.1)
+
+What any real thing belongs to.
+
+### No Beyond · Argument, stated in prose (§1.1)
+
+To be real is to belong to that whole; to be unreal is to have no place in it at all. Something is either real or it isn’t. There is no partly real, nor any degrees of real in between—which is just the law of excluded middle applied to what is or isn’t *real*. Anything partly real would still be something, and so wholly real. Reality leaves no third option.
+
+There’s no beyond Reality, as to be beyond it would be beyond what could be real. Nor can there be an empty beyond: even empty space is real, and belongs to Reality. To propose any additional worlds or realities beyond the one we occupy leads to the same collapse—if anything else is real, whatever it may be, it already belongs to Reality.
+
+### What real possibility is · In plain terms (Appendix A)
+
+**Something is really possible when Reality has the capacity for it**—when Reality has room for it, when it is a way things can be. *Possibility* and *capacity* name the same global modal fact from two sides. Neither names a separate power hiding behind Reality and handing permissions out.
+
+This is Reality’s complete capacity, not the local ability of one object or the options one situation presently makes available. A locked door can remove a person’s opportunity to cross a room without making crossing rooms impossible. Circumstances determine which possibilities are available here and now. They do not supply the capacity within which those circumstances arise.
+
+All real possibility together makes up the **modal maximum**: the whole range of what could really be. The word *maximum* does not say that every possibility happens, that incompatible possibilities happen together, or that every possibility is reachable from every local state. It says only that no further *real* possibility waits outside Reality to be added later.
+
+### Possible, in the book · In plain terms (Appendix A)
+
+**Possible (§1.2).** Something is possible when it is a way Reality can be. *Possible* does not mean merely logically consistent, conceivable, not yet ruled out by what we know, permitted by the actual laws of nature, or likely to occur. Those distinctions can matter, but none defines the possibility the argument uses.
+
+### Five senses of “possible” · In plain terms (Appendix A)
+
+One word carries several questions, and the argument needs only the first. The other five keep questions about logic, conception, evidence, laws, and likelihood distinct from the question of what Reality admits. Take one case and run it through all six: *is it possible that there’s a treasure chest buried somewhere in Central Park?*
+
+**Real.** *Is it really possible?* Is a buried chest the kind of thing Reality allows? *Reality* means the whole within which anything can be real at all (§1.1). Plainly, there is room for a chest, gold, burial, and discovery. Given the desire and a shovel, burying one really *is* possible. Even so, that possibility does not make any chest actual.
+
+To say something is really possible is to say there’s a *way* for it to be the case—which is why “there’s no way” and “impossible” mean the same thing in ordinary speech. And a way isn’t only a way to get somewhere. It’s just as much a way to become something, or to be something at all. The possibility of burying a chest is necessary (Part 2); that doesn’t mean that a buried chest is. One is a standing permission; the other is a particular fact about the world.
+
+**Logical.** Is possibility a matter of what can be coherently specified? Take a chest both full and empty in the same respect at the same moment. The predicates cancel one another, and no state of the chest gets specified, the way “square circle” names no shape. That failure comes from the contradiction, not from any limit on anyone’s imagination. Every real possibility is coherent, but coherence alone doesn’t make anything real.
+
+**Conceivable.** Does picturing something make it really possible? Suppose the chest refills itself with gold every time the lid closes. That’s easy enough to conceive of—no contradiction, no canceled words. Picturing it still settles nothing about Reality. **Inconceivability can expose a contradiction; conceivability doesn’t hand back a real capacity.** The full-and-empty chest fails outright; the refilling chest just stays open.
+
+**Epistemic.** Is there actually a chest buried there? As long as the evidence hasn’t ruled one out, the question stays open—not because Reality is undecided, but because we are. This sense tracks the limits of our knowledge, and finding a chest would settle the question. It was possible before anyone found it.
+
+**Nomological.** Do the actual laws of nature permit a self-refilling chest? Familiar physics may rule one out. But a law-relative exclusion is narrower than an exclusion from Reality’s complete capacity, since different laws may themselves be really possible. Physical possibility sorts what can happen given a law-set. Real possibility asks whether that law-set, or any configuration under it, could be at all.
+
+**Probabilistic.** If something can possibly happen, does that mean it probably will? A buried chest in Central Park is wildly unlikely, and being unlikely doesn’t make it any less possible. Possibility settles whether something is a candidate at all; real chance only sorts the candidates once they’re in, which is why nothing can be probable without first being possible. Credence is a different animal: we can be confident about something that turns out impossible, because we didn’t know its modal status. Probability measures either chance or uncertainty. It never manufactures possibility.
+
+Logic rules out only contradictions, imagination runs where it likes, evidence shifts as we learn, occasions come and go, laws distinguish physical ranges, and odds rise and fall. None of those changes answers the first question.
+
+### Possible and impossible · In plain terms (Appendix A)
+
+- *The diamond (◇)* reads “possibly.” **◇P** means ◇P: Reality has room for P.
+- *The box (□)* reads “necessarily.” **□P** means ¬◇¬P: Reality has no room for P to fail.
+- **¬◇P** reads “P is impossible”: Reality has no capacity for P.
+
+**What the book derives.** Change is actual, and so possible, since actuality entails possibility in every modal logic. It has two independent witnesses: doubting, which replaces a state in which the doubt was not held (*Cartesian Certainty*, §2.2), and any actual movement (§2.4.6). The possibility of change is necessary, □◇C (§2.3). Reality necessarily has order, separation, and bearing, which the book calls Time, Space, and Substance (the Conditions): □(T∧S∧Φ) (*Triconditional Necessity*, §2.5). Reality has the capacity for the kind of change we see, a body changing place, which has a before and an after, a here and a there, and something that moves; a capacity for a kind of change consists in the structure that permits it (*Capacity Constitution*, §2.4); and that capacity is necessary (§2.4.6). There is no empty alternative beneath Nature, ¬◇∅ (§2.7). Reality is Nature, N = R: existence has one sense, to stand in Time, Space, and Substance, and that is derived rather than stipulated, from the Concrete work incurs the conditions and the Difference Principle (*Existence Has One Sense*, §2.8). Together these give the *Necessity of Nature* (§2.9.1).
+
+Also derived: no complete duplicate of a feeling organism lacks the feeling (§9.1); anyone who claims that another ought not harm them has already counted harm as a reason (§5.14.3); a God said to exist in itself, with time, place, and substance subtracted, either does concrete work and stands in them at that work, or does none and is structure (§10.2.2); nothing outside Nature selects which total configuration is actual (§10.4); disagreement alone cannot locate a failure in a derivation, which takes an invalid step, a refuted premise, a shifted term, or a counterexample (§11.10); and every branch of the doctrinal field tested in Chapter 12 ends in one of four ways, none of which keeps the original claim without the argument that would earn it (§12.8). Politics rests on what claiming authority commits an institution to (§6). That consciousness is what integrated self-producing life is like from within is argued as the best explanation (§5.1). The cosmic cycle, the absence of a first moment, and sufficient reason for the whole follow from further stated premises (§4.6.5, §4.6, §8.2.1).
+
+**On God.** The verdict is **Nature alone**: no God stands outside Nature or is added to it (No Supernature and No Divine Addition, §11.10), and any divine description that survives specification picks out Nature or a feature of Nature.
+
+**What each conclusion rests on.** The necessity of possibility does not rest on No Beyond alone: whether a variation in possibility holds is itself a modal fact, so asking it again at each level either stops at a level that does not vary or never states the variation at all (*Whatever Makes Possibility Vary Is Necessary*, §7.2.1). Nature's necessity needs only □(T∧S∧Φ): Nature is the joint structure of Time, Space, and Substance (§1.4.4), and that structure holds under every evaluation (§2.5). A God who creates, sustains, knows, or acts has, at that work, a when in the order of the act, a where distinguishing its terms, and a bearer that persists through it, so it stands in Time, Space, and Substance (*Concrete work incurs the conditions*, §2.4). That needs no appeal to N = R. N = R is needed only for what is left: a ground that does no concrete work and has no when, where, or what of its own. Set beside the structure it is said to ground, it differs from that structure in no when, no where, nothing borne, no relation, and no content. A difference is a difference in something (the Difference Principle, §2.8), so it is no second thing: it is structure, an abstraction of Nature's articulations or Nature's own modal standing (*No unconditioned ground*, §2.9.2).
+
+**What Nature receives, and what it doesn't.** The relocation runs one way:
+it **de-deifies the predicate; it does not sanctify the subject.** Necessity and
+aseity are shown to belong to Nature's structure (§2.9.1; *Subsistent
+Grounding*, §2.9), and eternity as invariant presence throughout the temporal
+order (§11.3.2). The Conditions hold necessarily *and* open a real field whose
+configurations could have been otherwise (§2.9.4), so contingency is a modal
+fact here rather than a name for our ignorance. Nothing passes the other way:
+**no personhood, mind, agency, experience, or divinity is attributed to
+Nature.** Nature is not a subject, is not worshipped, and is not God under
+another name. **So this is not pantheism**: Spinozist pantheism is engaged as a **rival** at §10.3.1, not adopted,
+and Spinoza's necessitarianism is rejected by the contingency just stated.
+
+## Terms
+
+### Possibility · Definition (§1.2.1)
+
+Whatever Reality has the capacity for (◇P).
+
+### Capacity · Concept (§1.2)
+
+*Capacity* here means room, not a power Reality exerts: it’s a standing permission, while filling the seats takes an occasion, and nothing in the permission forces the occasion either way.
+
+### Change · Definition (§1.3)
+
+One state, then another.
+
+### Existence · Definition (§1.5.1)
+
+To exist is to occupy Reality.
+
+### Nature · Definition (§1.4.4)
+
+The three conditions at work: time, space, and substance.
+
+### Grounding · Definition (§1.5.5)
+
+What something can’t be without, to be at all.
+
+## The modal argument
+
+### Every claim is possible or not · Premise (§2.1.1)
+
+For any contentful claim, either it is really possible or it is not: the two modal verdicts are exhaustive. ∀P: ◇P ∨ ¬◇P.
+
+### Modal Constitution · Argument, stated in prose (§2.1.3)
+
+Modal status answers to Reality’s complete permitting and precluding boundary rather than to how any particular configuration is arranged.
+
+### The Boundary Cannot Move · Argument, stated in prose (Appendix A)
+
+Begin with the negative side. Suppose P is really impossible: ¬◇P. That says no configuration in Reality’s complete admissible range contains P. Now propose an evaluation on which P is possible after all. Either that evaluation is real, in which case it already belongs to Reality’s range and shows that P was never impossible, or it is not real, in which case it is no alternative to anything. There is no range beyond Reality’s from which it can be revised.
+
+Impossibility does not lapse: ¬◇P → □¬◇P. The same fact holds possibility fixed: Reality’s capacity for P carries no evaluation index, so if P belongs to Reality’s range, no evaluation can exclude it from that same range (*Evaluation-Invariance*). Every claim is possible or not, and that premise does no more than make the two verdicts exhaustive. Possibility does not lapse either: ◇P → □◇P. **Whatever is possible, its possibility is necessary.**
+
+This is why S5 describes the argument’s modal logic. The argument does not select S5 because a universal accessibility relation looks intuitive. It derives the bilateral invariance of Reality’s capacity, and S5 validates the resulting operator forms.
+
+### Local Availability Is Not Modal Status · Argument, stated in prose (Appendix A)
+
+The obvious objection is that possibilities seem to come and go. About 36,000 to 11,000 years ago, the Bering land bridge made it possible to cross from Asia to America by foot (farmer2023; jakobsson2017). Then the ice melted, the sea rose, and that walk was gone.
+
+Look closely at what was lost. The coastlines changed, the bridge vanished, and one route became unavailable. Those changes did not make land bridges or journeys across them impossible. They changed what could be done there and then, not what Reality could admit at all.
+
+That distinction goes only partway. An occasion is itself one way Reality can be. Before it can make anything locally available, it must already fall within Reality’s capacity. It cannot grant the permission it needs to arise. Circumstances determine which possibilities are actual or locally reachable; they do not draw the boundary of real possibility.
+
+### Modal Stability · Fixed Capacity (§2.1.4)
+
+1. If ¬◇P, no real evaluation admits P. If an evaluation admitted P, it would itself witness ◇P, contradicting the exclusion. And since ¬◇P is a fact about R’s one range and carries no evaluation index, it holds at every real evaluation. Therefore ¬◇P → □¬◇P (*Negative boundary*)
+1. ◇P likewise carries no evaluation index: no real evaluation replaces R or its one range (§1.1). ◇P therefore holds at every real evaluation or at none, which gives ◇P → □◇P. Every claim is possible or not, and that premise adds only that ◇P and ¬◇P exhaust P’s modal status (*Complement*)
+1. If □P, then R has no capacity for ¬P. If ¬P were actual, actuality would demonstrate that very capacity. Therefore P: □P → P (*reflexivity*)
+1. Since the incapacity constituting □P is fixed by the negative boundary, □P → □□P (*transitivity*)
+1. If P is actual, actuality demonstrates ◇P. By the complement result, P → □◇P (*symmetry*)
+1. ∴ Reflexivity, transitivity, and symmetry over the normal modal base yield the familiar **S5** representation of the bilateral result.
+
+### Capacity, Not Accessibility · Argument, stated in prose (§2.1.4)
+
+Ordinary Kripke semantics can *represent* this global-capacity result with universal accessibility among possible-world representations. That translation is fair, as long as its explanatory order isn’t reversed. The argument doesn’t begin with worlds, add Acc, and infer that every world can reach every other. It begins with the unrestricted modal capacity of R. Universal accessibility is therefore one relational rendering of the result, not its premise or philosophical ground. Kripke (kripke1963) supplies that model-theoretic rendering; Williamson (williamson2013) defends S5 for metaphysical necessity on a kindred invariance ground. The present account adds a ground for the commitment the form encodes. *Real possibility* is what R has the capacity to admit, not a local horizon belonging to each world, because Reality has no outside from which its total capacity could be supplemented or revoked (§1.1).
+
+### Possibility and impossibility never vary · The Bottleneck (§2.1.5)
+
+1. R has no beyond (*No Beyond*, §1.1)
+1. Real possibility reports R’s complete admissible range rather than a local horizon (§1.2.1)
+1. If a supposedly different total horizon is a real alternative, it already belongs to R’s range. If it shares no Reality within which it can be an alternative, it doesn’t vary one Reality’s capacity.
+1. Therefore no real evaluation crosses the exclusion boundary: ¬◇P → □¬◇P.
+1. ∴ ◇P is equally a fact about R’s one range and carries no evaluation index (lines 2–3), so possibility is invariant too; every claim is possible or not, and that premise does no more than make the two verdicts exhaustive: ◇P → □◇P.
+
+*Scope.* P retains one content throughout the iteration, whether qualitative or singular. Local reachability, evaluation anchors, and counterpart standards may vary within the range; the real modal verdict for that fixed P doesn’t. Treating a world-indexed modality as ◇ rejects the global-capacity premise rather than supplying a countermodel to the conclusion. The notation is the one fixed in §2.1.4.
+
+### Possibility and impossibility never vary · Theorem (§2.1.6)
+
+For every fixed contentful proposition P, whatever is possible, its possibility is necessary; whatever is impossible, its impossibility is necessary. The line between them is fixed and invariant. No real evaluation can cross the exclusion boundary of R’s complete admissible range, and the possible range is that boundary’s complement. The theorem includes qualitative and singular propositions alike; a shift in local accessibility, evaluation anchor, counterpart standard, or expressed content is not a change in the global modal status of one P. (◇P → □◇P) ∧ (¬◇P → □¬◇P).
+
+### Bruteness isn’t variation · Disjunction (§7.2.1)
+
+Let modal facts be brute: nothing about what Reality consists in grounds them.
+
+- **If the brute verdict for a fixed P doesn’t vary** across the evaluations reachable from wherever it is assessed, then ◇P → □◇P holds on the primitivist’s own facts. Bruteness withholds a ground and leaves invariance standing.
+- **If it varies,** the primitivist asserts that P is possible from one evaluation and not from another. That compares evaluations within one frame: the evaluations together with which are possible from which. Call it the *profile*, counting genuine evaluations only, not the representational devices of §7.3.1. By No Beyond (§1.1) the profile belongs to Reality. It is a determinate whole unless the primitivist denies that Reality’s evaluations form one, which denies §1.1 and the complete range of §1.2.1, not something bruteness commits them to. Over the profile an unrestricted modality U is defined: P is U-possible just if P holds at some evaluation the profile contains. U doesn’t vary with the evaluation, so it obeys S5. The varying operator is a restriction of U.
+- **The Bottleneck’s ◇ is represented by U.** Real possibility is fixed in §1.2.1 as Reality’s capacity, written ◇P in §2.1: Reality’s complete admissible range; U is that range rendered over the profile, in the order of §2.1.4 (capacity first, evaluations second), and the S5 Bottleneck (§2.1.5) calls any narrower, index-shifting operator local reachability. Three claims are read for U, with □ as truth at every evaluation the profile contains: possibility and impossibility never vary, change requires time, space, and substance, and □(T ∧ S ∧ Φ). T ∧ S ∧ Φ predicates Reality’s constitution, not an evaluation’s local inventory (§2.4.5), and no evaluation lacks them: that is □(T ∧ S ∧ Φ) itself, discharged for U from □◇C and the requirement □(◇C → T ∧ S ∧ Φ) (§2.5). The Null State’s exclusion (§2.7) is a direct consequence of it, not a premise of it. Necessity for U entails necessity for any narrower operator, since whatever is reachable from an evaluation lies in the profile. The derivation of □(T ∧ S ∧ Φ) doesn’t turn on whether U or the restricted operator is called *metaphysical*. Claims about a rival’s commitments under its own ◇ (§10.1.1) do inherit that choice.
+- **If a quietist** asserts no frame, the quietist asserts no variation, so no rival range is on offer. That isn’t a refutation: the quietist declines the §1.2.1 premise, which is stated openly and met in §7.1.7.
+
+Bruteness supplies no second range, and the only claim that could make the range vary is made over the single frame that fixes it.
+
+### Whatever makes possibility vary is necessary · Disjunction (§7.2.1)
+
+Let real possibility vary: P is possible from evaluation e₁ and not from evaluation e₂. That comparison’s holding is a modal fact with its own standing.
+
+- **It holds from every evaluation.** Then the frame over which possibility varies is invariant. Unrestricted possibility over that frame doesn’t vary with the evaluation, so it obeys S5, and the varying operator is a restriction of it.
+- **It holds from no evaluation.** Then P’s possibility doesn’t vary.
+- **It holds from some evaluations only.** Then the variation is restated one level up, and the three cases return there. Either some level’s standing is the same from every evaluation, which is the first case at that level, or none is, and the comparison is only ever true relative to a standing that is itself unsettled. If a variation is never stated outright, it supplies no rival range: a rival to ◇P has to say that possibility over the complete range varies, and if a claim is relative at every level, it never says that. This is no refutation of the view that declines to state one. That view is the quietist’s, which declines the §1.2.1 premise and is met in §7.1.7.
+
+If something makes it possible for possibility to vary, it is itself necessary: a variation is stated outright over an invariant frame, or it is never stated outright and offers no rival range. The route draws on neither No Beyond nor the profile’s membership in Reality. Reading the invariant frame as the Bottleneck’s ◇ still uses the definition of real possibility (§1.2.1), as Bruteness isn’t variation does.
+
+## Actual change and the necessary structure it requires
+
+### Movement is really possible · Premise (§2.4.2)
+
+Movement is really possible: ◇M. Displacement occurs, and what is actual is possible (§1.2.5). Since movement is one species of change, ◇M entails ◇C; the S-limb can draw on this narrower witness, and *From Movement* in full (§2.4.6) draws on it for all three conditions.
+
+### Change is really possible · Premise (§2.2.1)
+
+Change is really possible. Thinking is already a passage from one state to the next, and doubting or denying change is one more such passage. ◇C.
+
+*Predecessor* (taken): the doubting act had an actual predecessor, a state in which the doubt was not held. Its denial is self-defeating to argue, though not impossible to occupy (§2.2.4). ◇C also has an independent witness in actual displacement (§2.4.6).
+
+### What the witness takes · Argument, stated in prose (§2.2.2)
+
+The certainty is Cartesian in a precise sense. The witness is the *Cogito*’s structural shadow, and the doubter in it is a functional role: a state constitutes doubt, that state is structurally distinct from its absence, and that structural difference is the change the witness requires. The certainty for the possibility of change comes in one exact grade: the performative inescapability of the structural transition, self-defeating to deny, not the phenomenal indubitability the term can suggest. “Cartesian” marks the *Cogito* on the performative reading taken up in §2.2.1. No one can argue that nothing changes without changing in the arguing, whether or not that feels beyond doubt.
+
+Two limits hold that grade in place. The datum is the structural transition, not phenomenal character (what an experience is like). The illusionist denies that there is any phenomenal character to have, and that denial therefore leaves the witness standing (§9.2). And the witness instantiates intrinsic state change of the doubting system, not duration of time or causal direction per se. The witness establishes that change is actual; §2.4 shows that change instantiates the structural conditions. It does not establish that temporal structure can’t proceed without intrinsic change. That is Shoemaker’s time-without-change argument, engaged in §8.1.1.
+
+The witness establishes that change is actual at the site of any concrete denial and hence that change is really possible. By itself it establishes no necessity, no particular physical configuration, and no conclusion that experience’s ground is mind-independent. The necessity of the conditions follows only when ◇C is passed through the modal lift (§2.3) and the requirement that change has all three conditions (§2.4).
+
+The performative argument doesn’t establish by itself that every candidate transition instantiates the three conditions as the proof needs them. The act’s distinctions are a doubting thought, what is doubted, and the standpoint from which the doubt is made. They don’t by themselves complete the proof of spatiality, and requiring a thinker to bear the thought doesn’t by itself complete the proof of substantiality. Those stronger identifications are earned where change is shown to require all three conditions (§2.4); their application to further ontological levels is stress-tested in Chapter 3 (§3.3.6). The witness supplies structured actual change, not a blank permission the later argument must fill from nothing.
+
+The canonical proof needs no inference from experienced change to a mind-independent or otherwise transcendent ground. The premise supplies one actual change and therefore ◇C; the necessity of possibility performs the modal lift, and §2.4 identifies what that capacity requires. The witness is tested, after it has done that work, by questions about what a simulation host, transcendental subject, divine mind, or other ground must instantiate. The witness reaches whatever concrete realizer hosts the act: distinguishing experience from Reality is itself an act whose realizer changes. That secures structure in cognition and its host, not T, S, and Φ as the proof needs them at every noumenal level (as things are apart from experience). A further question, not a second premise, is whether the certainty also reaches past experience to whatever grounds it. If the grounding relation is granted, the certainty extends from experience to whatever hosts it. That extension is tested in Chapter 3 at every level of explanation (§3.1), against the way each condition brings the other two with it (§2.6.7), and against a ground that would only encode experience rather than have it (§3.3.6).
+
+### Change is necessarily possible · Lemma (§2.3)
+
+The possibility of change is necessary: it holds under every real evaluation of Reality’s capacity, not merely in the actual world. An actual witness of change—the Cartesian certainty of §2.2, or the movement witness of §2.4.2 carried through in *From Movement* (§2.4.6)—is lifted to □◇C by the theorem that possibility and impossibility never vary.
+
+### Ordered Succession · Constitutive Premise (§2.4.1)
+
+For one state to come genuinely after another is for the earlier to stand to the later in an ordering that cannot be run in reverse and that composes coherently across states, not merely to be labeled *before* it. If something instantiates that ordering, it satisfies T as the proof needs it. This draws on Chapter 1’s fixing of temporality as asymmetric, transitive ordering (§1.4.1) rather than re-arguing it.
+
+### Relational Distinctness · Constitutive Premise (§2.4.2)
+
+For two items to be distinct *as positions* is for them to stand in a relation of extension to one another, not merely to differ in intrinsic properties. The criterion has three parts, and each excludes a different substitute: an interval that could be crossed, an occupiable place to cross from, and an occupiable place to cross to. Bare qualitative non-identity is real but is not the relation at issue: red is not blue, with nothing traversed. A crossing arrives nowhere if nothing could occupy its terminus, and never departs if nothing could occupy its origin. If something satisfies that criterion, it satisfies S as the proof needs it. All three parts draw on Chapter 1’s fixing of spatiality rather than re-arguing it. The account of spatiality (§1.4.2) fixes the interval as crossable under *traversability* and the ends as occupiable under *exclusivity*, each position holding one complete local configuration at a time. That is why, in the Groundwork’s own words, change requires not bare numerical difference but “the stronger, occupiable kind” (§1.4.2). Satisfying the criterion is not a further inference from the word *different*.
+
+### Attention Crosses a Real Separation · Constitutive Premise (§2.4.2)
+
+In the reflective witness, the retained content and the present act are not merely two qualitatively different descriptions. They are simultaneously available as separately selectable poles: attention can take either as its origin or terminus while their non-identity is retained through the shift. A relation with distinct, occupiable poles and a possible passage between them satisfies the criterion for real separation as the proof specifies it. Therefore the witness instantiates S as the proof needs it.
+
+*Scope.* The premise attributes no metric, dimension, bodily location, or physical geometry to thought. It is the disputed bridge from intentional articulation to nonmetric positional structure. A critic may accept every fact about differentiated content while denying this bridge; that refusal blocks the reflective S-route but not *From Displacement*. Used only on the reflective route; the movement route doesn’t need it.
+
+### Cross-Interval Persistence · Constitutive Premise (§2.4.3)
+
+For one state to give way to the next *as a change rather than a bare replacement* is for something to persist across the interval and bear the transition, not merely for two states to be correlated. If something occupies that role, it satisfies Φ as the proof needs it. This draws on Chapter 1’s fixing of substantiality as occupied carriage across an interval (§1.4.3) rather than re-arguing it. The premise deliberately does not say *causally produce*.
+
+### Bearer-Neutrality of Substantiality · Proposition (§4.4.2)
+
+Substantiality is a role, not a kind of stuff. The matter/energy dichotomy has dissolved (conservation of energy, the field as a first-class entity alongside matter, mass–energy equivalence), and that dissolution concerns what *realizes* the role, not whether the role is required. Whatever the carrier turns out to be made of, something must carry: what obtains in one state has to be borne into the next. Rest mass, fields, particles, and dynamical energy may realize that function in different physical theories, and Φ is identified with none of them.
+
+*Scope.* An interpretive proposal about what fills the role, not a result extracted from mass–energy equivalence. That equivalence doesn’t settle whether matter and energy are identical, two ontological categories, or two aspects of a deeper ontology, and nothing here needs it to.
+
+### Capacity Constitution · Argument, stated in prose (§2.4)
+
+**Capacity Constitution**: Reality’s capacity for a kind of transition consists in the standing structure that permits that kind and precludes its collapses. It is Modal Constitution (§2.1.3)—modal status answers to Reality’s complete permitting and precluding boundary—applied to change, so it isn’t a new posit. A capacity for one state and then another of a retained bearer is not a blank permission later supplemented by succession, distinction, and bearing. Remove any of those and a different capacity has been specified: not a capacity for change under the fixed referent.
+
+### Capacity Constitution · Principle (§2.4)
+
+Reality’s capacity for a kind of transition consists in the standing structure that permits that kind and precludes its collapses.
+
+### Capacity Constitution for space · Argument, stated in prose (§2.4)
+
+Displacement gives a direct route to spatiality. It is a witnessed species of change (*Movement is really possible*), so Reality’s actual capacity for change is one exercised in displacement. By Capacity Constitution, displacement is permitted by a structure, and that structure includes the real separation it crosses (*From Displacement*, §2.4.2). That secures the conditional’s constitutive direction. The reflective route (*From Reflection*) reaches spatiality through a separate premise. Its witnessed poles count as positional only under Attention Crosses a Real Separation (§2.4.2).
+
+### The bilateral identification · Argument, stated in prose (§2.4.5)
+
+**The bilateral identification.** One satisfaction test remains: whether the one invariant constraint that permits and precludes change satisfies the inherited criteria for the three conditions. It isn’t an inference from local occurrence to local inheritance, and it adds no new meanings to them. Their roles were fixed in the Groundwork; the witness shows those roles occupied; and the modal predicates here have referred to Reality’s global standing from the outset (§1.2.1, §2.1.4).
+
+The answer is bilateral, in exactly the sense proved in §2.1.6. Actual tokens of change—the reflective episode and, independently, movement—supply the positive edge: Reality permits ordered succession, positional differentiation, and retained bearing across a transition. The necessity of possibility fixes those permissions globally. The limb boundaries (§§2.4.1–2.4.3) supply the negative edge, and the negative arm fixes them just as firmly: if a configuration is really impossible, ¬◇P → □¬◇P. Temporality precludes an after preceding its own before; spatiality precludes positional collapse, including the square circle and two complete local configurations at one coordinate; substantiality precludes an exchange with no persisting bearer or connection. These aren’t six independent laws, with three permissions on one side and three prohibitions on the other. Each pair specifies one structural role from both directions. Ordered succession under its asymmetric boundary is temporality. Real separation under its exclusivity boundary is spatiality. Cross-interval bearing under the foreclosure of unborne exchange is substantiality.
+
+That identification is structure-wide because it explains modal verdicts that are structure-wide. Let SC be two complete, incompatible configurations at one position in the same respect; the square circle at one boundary is its familiar metric instance. The negative line is explicit: ¬◇SC; therefore □¬◇SC. A square circle isn’t excluded only at worlds containing circles; its impossibility is a standing fact about what Reality permits. Nor is the exclusion merely a collision between two names. *Square* and *circle* specify incompatible positional organizations, just as *married* and *bachelor* specify incompatible relational configurations at the same time. Logic supplies the contradiction’s formal shape, and the content comes from what is contradicted. Here that content is spatial.
+
+The identification uses both edges. The negative edge alone would tell us only that SC is excluded; the positive edge shows that Reality admits coherent positional differentiation and exteriority. The positive permissions and invariant negative boundary jointly identify a non-vacuous positional grammar. The spatial logic does that permitting and excluding, and it isn’t a non-spatial rule added to Reality from outside. That grammar is what spatiality means. The same holds for the temporal and substantial boundaries. Reality doesn’t first possess a contentless modal structure and then receive T, S, and Φ as local occupants. T, S, and Φ are the articulation of the modal structure’s own permitting and precluding work.
+
+The claim is therefore not “every local configuration contains an extended object.” The claim is that Reality’s range has invariant rules governing which positional configurations can obtain together: R admits some positional configurations and excludes their contradictory collapses. Reality’s modal constitution, rather than any one local arrangement, includes a content-specific, non-vacuous boundary governing Reality’s total capacity. Calling that boundary *spatiality* names its role; it doesn’t turn an abstract logical contradiction into a material object.
+
+### Change requires time, space, and substance · Theorem (§2.4.5)
+
+Under every modal evaluation, if change is really possible, then Reality is constituted by temporality, spatiality, and substantiality, in Capacity Constitution’s sense: its capacity for change consists in the structure that satisfies the limb criteria. The change at issue is the structural kind actually witnessed by the reflective episode and by movement. □(◇C → T ∧ S ∧ Φ).
+
+### Structural Gap · Dissolution (§2.4.14)
+
+The objection to constitutive necessity needs a gap between concept and essence, and at the structural level no such gap opens. The Kripkean case turns on a surface description whose deep nature is discovered elsewhere: *water* fixes reference by clear-and-drinkable while the microstructure stays hidden behind the appearance. *Change* has no place to hide. It picks out the presence of a before-state and an after-state, one giving way to the other, and that distinction isn’t a superficial feature awaiting explanation by a deeper essence; it is what change consists in. One test separates the two cases: whether the role admits a counterfactual different filler. *The clear drinkable liquid in our lakes* is filled by H₂O here and could have been filled by XYZ, which is what makes the definition descriptive: the role underspecifies the essence. *Ordered succession* admits no such alternative, since any filler of the role *is* ordered succession, and the same holds of relational extension and cross-interval bearing. Where role and essence coincide, the definition isn’t a description of the nature but the nature itself, and *outside the conditions* doesn’t name an undiscovered essence standing behind the role.
+
+*Scope.* The result holds for any realizable essence. It doesn’t by itself reach the reading on which a simple ground holds the dependence-role eminently or virtually rather than filling it, which is engaged as dialectical work in Chapter 10.
+
+### Time, space, and substance are necessary · From Movement (§2.4.6)
+
+1. Movement is really possible. ◇M (*Movement is really possible*, §2.4.2)
+1. Whatever is really possible, its possibility is necessary. ◇P → □◇P (*Possibility and impossibility never vary*, §2.1.6)
+1. From (1) and (2): the possibility of movement is necessary. □◇M
+1. A displacement occupies a before and an after (T), crosses an interval between positions (S), and is undergone by what persists across it (Φ). Necessarily, if movement is really possible, the three conditions hold. □(◇M → T ∧ S ∧ Φ) (*Containment*, by *Capacity Constitution*)
+1. ∴ From (3) and (4), by the distribution axiom and modus ponens: the three conditions hold of necessity. □(T ∧ S ∧ Φ)
+
+### Time, space, and substance are necessary · Theorem (§2.5)
+
+Reality is necessarily temporal, spatial, and substantial, because the possibility of change is necessary and requires those three conditions. Here their joint necessity follows: □(T ∧ S ∧ Φ).
+
+### Moments differ only by what fills them · Lemma (§2.4.9)
+
+Positions in an order are distinguished by their occupants, not by a bare thisness attaching to instants as such. Where no state, arrangement, or bearing differs between two alleged moments, there is one moment under two names.
+
+### Time, space, and substance make change possible · Theorem (§2.4.9)
+
+Change requires time, space, and substance, and the converse holds too: **(T ∧ S ∧ Φ) → ◇C**. If temporality, spatiality and substantiality jointly articulate Reality’s modal structure, change is really possible. Taken with the forward conditional (§§2.4.1–2.4.5), this closes the biconditional **◇C ↔ (T ∧ S ∧ Φ)**.
+
+*Scope.* Both legs concern change under one structural description; neither has reflection in its intension. The forward leg identifies what actual change requires. The converse establishes change’s possibility from Reality’s constitution providing for those requirements jointly. Whether the two sides state one fact or two necessarily co-grounded facts is the identity question of §2.6.6, not settled here.
+
+### Nothing never was and never could be · The Modal Form (§2.7.2)
+
+1. A possible world is a determinate way Reality could be.
+1. A determinate way must be capable of serving as an evaluation point: it must support at least one fact—something obtaining rather than not—and thereby a truth about how Reality is (§3.2.1; §2.4.16).
+1. ∅ is the joint absence of T, S, and Φ (§2.7.1). Taken as the absence of the three conditions as the proof needs them, it is excluded by □(T ∧ S ∧ Φ) (§2.5), since □(T ∧ S ∧ Φ) ⊢ ¬◇(¬T ∧ ¬S ∧ ¬Φ) is valid in the basic modal logic **K**. Read as absolute nothingness—no fact, distinction, bearer, or structured state of affairs—it fails step 2; the no-free-standing-residue thesis holds that the absence of T, S, and Φ as the proof specifies them is also this absolute one (§2.7.4), not drawn on here. At an empty world ‘nothing exists’ is true, and the world still supports that fact, so it is ∅ only on the proof’s reading, and only if it lacks T, S, and Φ.
+1. ∴ On the proof’s reading, ∅ is not a possible world because it is excluded by the necessity already in hand. On the absolute-nothingness reading, it is not a possible world because it supplies no determinate way Reality could be. Either way: ¬◇∅.
+
+### Nothing never was and never could be · The Temporal Form (§2.7.2)
+
+1. For t to be a past time at all is for t to stand in succession-relations—temporality-facts at t. Past(∅) entails T at t.
+1. By definition, ∅ is the joint absence of T, S, and Φ; for ∅ to obtain at t is for temporality to be absent at t. Past(∅) entails ¬T at t.
+1. ∴ Past(∅) entails both T and ¬T at the same evaluation point t. ∅ obtained at no past time: ¬Past(∅).
+
+## Concrete operations and constitutive identity
+
+### Formal descriptions depend on operative work · Constitutive Premise (§2.6.1)
+
+When time, space, or substance is claimed as concretely operative rather than merely represented or formally modeled, the formal side depends on the operative side for its meaning, not the reverse. Reality does the work; lists, diagrams, coordinates, and equations describe that work. “1 + 1 = 2” is meaningful because reality can make one thing and one thing into two, not because arithmetic licenses the combination. Operative T is an actual succession rather than a list; operative S separates occupiable positions across a crossable interval rather than coordinates in a diagram; operative Φ makes one stage a continuation of a process rather than an unrelated entry. The premise does not assume that all three conditions are present. It licenses the question each pivot answers: what else must be instantiated for any one of those roles to do that work?
+
+*Scope.* The modal theorem of §2.5 establishes the joint necessity of T, S, and Φ in Reality’s modal structure without the premise. The premise is drawn on only by the stronger same-realizer cross-entailments and the identity readings built from them. If a reader grants the necessary conjunction but denies this bridge, that reader keeps □(T ∧ S ∧ Φ) and declines only the claim that any one operative role locally contains the other two—and, with it, the polarity that formal meaning is derivative of operative reality. Denying that polarity is the information-first and mathematical-structure reading met in §8.2.3: wherever a concrete process is specified at all, the formal specification is treated as exhausting the roles rather than as describing work reality does.
+
+### Succession requires extension · Argument, stated in prose (§2.6.2)
+
+*First, the traversability line.* Operative succession is a reaching, and a reaching needs an interval to cross: that interval is relational extension. As the proof needs it, T supplies asymmetric, transitive order by itself; it does not yet supply travel. Travel enters through the premise that formal descriptions depend on operative work when that order is claimed to be the order of a concrete transition rather than a formal list. The after-state is then reached from the before-state, and the reaching must be realized. This is not yet Φ as productive causation. It is the weaker requirement that the transition be borne as one passage rather than two entries, while the passage has differentiated source and terminus positions. If nothing spans A and B, there is replacement rather than one succession; if there are no differentiated positions, there is nothing from which or to which the passage runs. The line therefore derives S and Φ from **T-at-work**, not from the formal T-predicate alone.
+
+### Operative extension supplies succession · Argument, stated in prose (§2.6.2)
+
+*First, the interval-reality line.* An operative interval is one across which a passage can run, and a passage is directed succession. A static interval may be perfectly real without an actual crossing; the theorem doesn’t deny it. The premise here is stronger and explicit: take extension as concretely operative in a change-realizer. Its crossability is then exercised or available as an ordered passage from one occupiable position to another. Strip out every possible ordering of such a passage and S remains a static spatial fact, but it no longer satisfies the operative antecedent of this pivot. The inference is therefore from operative S to T, not from spatial reality alone to time.
+
+### Bearing requires extension · Argument, stated in prose (§2.6.3)
+
+*First, the distinctness line.* For Φ to operate across a transition, it must carry between terms that are genuinely distinguishable, not merely two names for one undifferentiated state. This need not require two numerically distinct beings: one persisting system may occupy both terms at different stages. A primitive haecceity may contribute nonqualitative individuating structure, but it doesn’t by itself order one term as source and the other as uptake. That ordering is a relation with differentiated roles, *from* and *to*. Differentiated roles alone are argument-places, not yet positions (§2.4.2). The operative antecedent makes them the spatiality-role here: something is borne and actually passes from the one term to the other, so each is an occupiable term and the passage crosses the relation between them (§2.4.2). The argument doesn’t infer that the haecceity itself is spatial. It infers that operative bearing requires relationally differentiated, occupiable positions in addition to whatever individuates the relata.
+
+### An operative medium requires bearing · Argument, stated in prose (§2.6.3)
+
+If nothing *could* occupy a position, that position functions as an abstract coordinate label, not a position in a *medium*. The premise at work here is stated openly: a medium’s positions are positions rather than mathematical indices because they are occupiable—and occupiability is a premise about media, not a consequence of relational structure as such. A pure geometry owes nobody occupants; a medium’s extension is constituted by what could stand in it and exclude from it.
+
+The argument doesn’t deny that *empty* regions of physical space are real: empty regions are real precisely because they are occupiable; something *could* occupy them, even when nothing currently does. An empty region doesn’t collapse into a coordinate label; a would-be position does, if nothing could ever occupy it.
+
+And occupiability requires something capable of occupying: a medium that occupies and bears the exclusion of other occupants across the interval, whether or not that bearing is also productive. That medium is substantiality. Exclusive occupancy without a being is exclusion with nothing doing the excluding.
+
+### Succession requires bearing · Argument, stated in prose (§2.6.4)
+
+*First, the continuity line.* Think of a relay race. The baton must be carried from one runner to the next: if it vanishes at the handoff and a new baton appears, nothing was relayed. Directed succession works the same way: something must be borne from before-state to after-state. Without a bearer, the before-state leaves nothing behind, and the after-state arrives from nowhere. That isn’t directed transition. It is replacement. The distinction between transition and replacement is constitutive, not a matter of degree. For succession to be one passage rather than two entries, something must bear the transition across the interval. A question about what fills the role is whether that bearing is also productive transmission (§8.2.2); the bearer-role is substantiality either way.
+
+### Operative persistence requires succession · Argument, stated in prose (§2.6.4)
+
+*First, the persistence line.* Persistence isn’t a static property. It is persistence through: through transitions, through changes, through the passage from before to after. If a medium never stands in an earlier/later order, it isn’t persisting through anything. It exists at no moment, endures across no interval, and sustains nothing from one state to the next. To persist is to be the same thing at a later time as at an earlier time. Remove the temporal ordering and there is nothing for persistence to consist in. Substantiality without temporality is the word *being* with no structural content, not a being in a reduced mode.
+
+### Each condition brings the other two · Theorem (§2.6.7)
+
+Nature read from the cross-entailment among the three operative roles: when temporality, spatiality, or substantiality does its characteristic work in a concrete change-realizer, the succession, extension, and persistence pivots co-instantiate the other two in that same realizer, given the premise that formal descriptions depend on operative work. The roles are mutually implicating there without being reducible to one another. Formally, for any realizer g in the operative domain: T(g) ↔ (S(g) ∧ Φ(g)), S(g) ↔ (T(g) ∧ Φ(g)), Φ(g) ↔ (T(g) ∧ S(g)). No unrestricted biconditional among abstract predicates is claimed.
+
+### Concrete work incurs the conditions · Theorem (§2.4.7)
+
+An abstract object is not a counterexample to the conditions on concrete change: abstract existence by itself attributes no concrete operation. If a candidate is said to change, act, experience, create, sustain, intervene, or efficiently produce a concrete effect, it incurs the full conditions at the operation or contact where that work occurs: a when in the order of the act, a where distinguishing its terms, and a what that bears the difference across it. Sustaining counts here as productive work: bringing a thing into being or driving a becoming in it. Concrete work is change-realizing, so each such operation is a change token. Bringing a thing into being is itself a change: the thing is not, and then it is, and an onset from absence presupposes the conditions it would introduce (§2.4.4). If a candidate is assigned determinate abstract content but no concrete operation, it remains an abstractum. If it is assigned concrete work, it must supply T, S, and Φ at that work. If it is assigned neither determinate content nor a determinate relation, it supplies no entity or ground at all.
+
+### What tells things apart is structure · The Concrete Individuation Fork (§2.4.8)
+
+1. **Let x and y be two concrete items.** By Any plurality has real difference, x ≠ y is a determinate difference.
+1. **Each is concrete, standing in a when, a where, and a what, and its existing is that standing, not an extra ingredient a thing could have or lack while those stay fixed** (§1.5).
+1. **Either x and y differ in some temporal, spatial, substantial, or relational respect, or they differ in none.**
+1. **If they differ in one,** that difference individuates them, whether it is an order (T), an interval (S), a difference in what is borne (Φ), or a difference in how they stand to other things (the difference role D). It is structure.
+1. **If they differ in none, they share one when, one where, one what, and every relation.** Two moments are two by their order, and two positions are two by a real interval between them, or else they are one position wearing two names (§1.4.2).
+1. **Then, counted by the account of existence (§1.5), there is one standing.** On that account a thing’s existing is its standing in time, space, and substance, and a standing is counted by its when, where, and what, not by the occupant it is assigned to. If the whens, wheres, and whats are not two, the existing is not two.
+1. **To count two regardless is to count standings by their occupants:** the occupant first, and its existing a standing it has. That reverses the order set in §1.5, where the standing comes first and the occupant is what stands. It is not a contradiction; it is the primitivist’s one reply, and it denies the account of existence defined in §1.5.
+1. **Even so, it leaves the conditions untouched.** Each of the alleged two still has its when, its where, and its what; a bare plurality needs time, space, and substance as much as any other. The primitivist adds a count of occupants inside Nature, not an item or a domain outside it.
+1. **And nothing could count for two over one.** Evidence favors one hypothesis over another only where they predict or explain something differently, and by hypothesis one and two predict and explain the same. This is a point about confirmation, not meaning: the plurality is intelligible and is not shown false, only unsupported by anything.
+1. **∴ One concrete item is individuated from another only by a difference in T, S, or Φ, or a relational difference of some kind: structure, belonging to their complete profile.** The only alternative is a bare count inside Nature, which reverses the order of explanation in §1.5 and has nothing to support it.
+
+*Scope.* In every physical plurality it meets, the fork finds either a basis in structure or the primitivist’s case. Black’s spheres are two by an interval (S) (black1952); if, as Hawley and others argue, an irreflexive relation presupposes the distinctness it is used to show (hawley2009; cf. @ladymanLinneboPettigrew2012), they are instead the primitivist’s case, met at steps 7–9, and the conclusion is unchanged. Fermions in an antisymmetric joint state are weakly discernible by an irreflexive relation, the difference role D (saunders2006); the verdict is contested, and the fork needs only that the relation is a difference in how they stand to each other. Bosons in one mode are not discernible even weakly: their plurality is a quantity the state bears (Φ, n = 2), and whether each quantum is an individual at all is left open; if it is not, the fork’s two items are not given. The statue and the clay are two, for the pluralist, by what each would bear through change (Φ); for the monist they are one, and the fork agrees. Duplicates in separated regions of one space are two by an interval (S). The second branch applies only to alleged pluralities with no basis at all, and a modal realist becomes the primitivist of steps 7–9 by denying the identity of indiscernibles (lewis1986), and so denies the account of existence in §1.5.
+
+The fork fixes where the primitivist stands (steps 7–9): inside Nature, never against it, with □(T ∧ S ∧ Φ) untouched. Bare thisness for instants is a separate question, carried by the lemma that moments differ only by what fills them (§2.4.9) and not settled here.
+
+### The constraint and its proposed ground · Argument, stated in prose (§2.4.8)
+
+The theorem applies here on a premise the identity step states rather than assumes: Reality’s modal constraint is concrete in the theorem’s sense, the standing constitution that concrete change exercises, not an abstractum. If a reader files it with abstracta, that reader meets the Abstracta Fork instead (§2.8). Let X name the constraint on the characterization reading, distinct from T ∧ S ∧ Φ but sharing its complete permitting and precluding profile. If X and T ∧ S ∧ Φ are two, the theorem requires a positive differentiator. If that differentiator changes what the constraint permits or precludes, the profile was incomplete. If it changes nothing in the complete profile—no permission, prohibition, relation, ground, operation, or individuating character—then it supplies no positive ground by which two concrete constraints are individuated.
+
+One further case falls between those two: the differentiator changes only a *ground*. X is said to be an essence-prior item that grounds the permitting and precluding profile while altering no permission, prohibition, or operation. That is a grounding claim with no modal output, and it falls under the Idle-Residue pattern (§2.8). If the grounding difference positively individuates X, the theorem counts it as real differentiating structure in the complete profile: a further articulation of the one constraint, not a second constraint beside it, and X was said to share a profile, and that profile was incomplete. If it individuates nothing, it permits, precludes, and operates nothing the profile does not, and is idle. Either way the identity step stands. The priority question for the committed essence-prior view is whether such an item is nonetheless prior to the modal structure (§7.2.1).
+
+Bare nonidentity is not a further case: it is what the theorem excludes. A primitivist can stop there only by holding that two concrete constraints share one complete standing and are still two, which reverses the account of existence in §1.5 (steps 6–7 of the Concrete Individuation Fork) and leaves only a count inside Nature. No case leaves a concrete constraint merely characterized by the three.
+
+### Constitutive non-addition · Argument, stated in prose (§2.6.8)
+
+A being isn’t a substrate on which T, S, and Φ are imposed from outside. A being is something that persists (Φ), distinct from other things (S), across transition (T). If a Φ doesn’t persist across any S or T, it is no being. If no Φ could occupy an S’s positions across any T, that S isn’t a space. If a T doesn’t host any Φ succeeding across any S, it isn’t a time. The three conditions aren’t a set of requirements beings meet. The three conditions *are* what *being* *consists in*.
+
+### To be in Nature is to be time, space, and substance at work · Theorem (§2.6.8)
+
+Nature read from the side of being: within the realizer-level structure of genuine change, to be in Nature is to instantiate time, space, and substance (T ∧ S ∧ Φ). Not to match T, S, and Φ as a necessary condition; to be T, S, and Φ in operation as a being. T, S, and Φ in operation have being in Nature, and nothing else in Nature has being. No residue on either side, given that what tells things apart is structure.
+
+*Scope.* The theorem of §2.4.8 uses *structure* in the sense fixed in §2.6.1, an articulation of T ∧ S ∧ Φ. A reader can deny that what tells things apart is structure only by denying a proved theorem (§2.4.8), and the forward half stands even then. Constitutive non-addition is drawn on again as premise 3 of §2.8, and the same principle answers the Russellian exit (§2.8, §9.3).
+
+### Necessary co-extension is uninformative · Principle (§2.6.6)
+
+Where both relata of a claimed identity have already been established as necessary, their modal co-extension is uninformative. It follows from the necessity of each, it holds between any two necessary truths whatever, and it therefore distinguishes nothing.
+
+The content of an identity claim between such relata is exhausted by the absence of individuating content on either side: that specifying either already specifies the other, with nothing left over to mark them as two.
+
+Two consequences follow. The biconditional notation *understates* such a result rather than overstating it, so a reader has read past the claim if they read only the operators. And a refutation must target the no-surplus claim directly; exhibiting a world in which the two sides come apart is unavailable in principle rather than merely difficult.
+
+*Scope.* The first clause holds only between necessary relata: □◇C and □(T ∧ S ∧ Φ), and the three readings taken as theorems. Inside the theorem that each condition brings the other two and the result that to be in Nature is to be time, space, and substance at work, the relata are indexed to a realizer g and are not each necessary. Their co-extension over the operative domain is therefore informative, and it is earned by the pivot derivations against their countermodels (§§2.6.2–2.6.4). Only the no-surplus clause carries over to them.
+
+### Nature is time, space, and substance · Theorem (§2.6.10)
+
+Nature is triconditional in two strengths. Unconditionally across the whole modal structure, Nature is by definition the joint structural complex T ∧ S ∧ Φ, with the necessity of that complex earned independently in §2.5. Within concrete change-realizers, the three pivots establish the stronger same-realizer cross-entailments, given the premise that formal descriptions depend on operative work. Two results add the no-surplus premise at their stated domains: that possible change and the three conditions are one fact, and that to be in Nature is to be time, space, and substance at work. The identity, rather than mere characterization, of Reality’s modal constraint with T ∧ S ∧ Φ adds the theorem that what tells things apart is structure. At proposition level, □(T ∧ S ∧ Φ) ↔ □◇C; the stronger claim that Nature, the necessary conditions, and necessary possibility are one structural fact is available only on that no-surplus argument. A reader may decline the premise that formal descriptions depend on operative work, the no-surplus step, or the theorem that what tells things apart is structure; that reader retains the necessary conjunction and forgoes only the corresponding stronger reading.
+
+### Condition-Individuation · Principle (§2.6.11)
+
+X qualifies as a condition only if it specifies an indispensable constitutive role in the structure at issue, admits a determinate positive/negative pair to which the Law of Excluded Middle applies in empirical existence-claims along that role, and is irreducible to the other admitted roles in their joint articulation. A further requirement on a particular configuration doesn’t by itself supply a further condition.
+
+### The removal test · Argument, stated in prose (§2.6.11)
+
+The removal test must keep its object fixed. Remove ordered succession, concrete relational separation, or cross-interval bearing from a proposed change-realizer, and the proposal no longer specifies that change-realizer (§2.6.5). This is a constitutive failure at the tested role.
+
+### A Problem One Level Down · Proposition (§8.3.1)
+
+Presentism, four-dimensionalism, and relationalism each supply an ordered continuity structure, one level below the derivation: presentism at each present moment with cross-time relations carried by tensed-fact primitivism, four-dimensionalism in the manifold existing timelessly, relationalism in properties indexed to times. The temporary-intrinsics problem is therefore a dispute about how cross-time continuity is realized rather than about whether it is required. Each supplies a proposed occupant of the continuity role. Where the item is concretely changing, the occupant meets the Φ type as the proof needs it at the change, since concrete work incurs the conditions (§2.4). None of the three analyses is refuted by that, since each proposes a realizer.
+
+### The nature of anything within Nature is a feature of Nature · Theorem (§2.6.12)
+
+For any X that spells out a structural feature of N, the nature of X = the X-describable feature of N.
+
+## Reality is Nature
+
+### No Independent Abstract Realm · The Abstracta Fork (§2.8.1)
+
+1. **For A to differentiate Reality from Nature, A must have determinate identity.** The numeral, the act of specifying, and the proof are real configurations; the count is what those configurations specify. The Platonist’s claim is that something further is real: A, being *this* abstractum and not another. Without that, nothing has been specified for premise 6a to register as a content.
+1. **A’s identity is fixed either by its position in a structure, or by something over and above that position.** The two are exhaustive.
+1. **First horn, instantiated.** If A’s identity is its structural position, A is a position in a structure, and a structure is what existing things have, considered apart from them, and a position in one is individuated by its relations to the other positions (§1.5): an abstraction of Nature’s articulations, which premise 6a already counts within Nature.
+1. **First horn, uninstantiated.** If no actual plurality bears the structure, A is what things *could* have. Real possibility is Reality’s standing capacity (§1.2.1), which names no power behind Reality and outside which no further real possibility can stand. An uninstantiated structure is therefore Nature’s own modal standing, not a second domain. If no concrete things could have a structure, it is not, on the account of existence in §1.5, a structure things have or could have at all. It is the content a specification fixes: the axioms, definitions, and proofs that settle what follows in a formal system. Those are real configurations of thinkers and their media, so a position in such a system is fixed by its specification, an abstraction of Nature’s articulations in the first horn’s sense. Writing the specification doesn’t make its theorems true. Every real possibility is logically possible (§1.2.1), so whatever specifies the axioms fixes what follows from them, necessarily; and specifying them, being really possible, was always really possible (Possibility and impossibility never vary, §2.1.6). Before anyone wrote the axioms, their consequences were already fixed as Nature’s own modal standing. If a Platonist holds that the position is fixed by an object beyond the specification, the Platonist is on the second horn. A formally specified system can be investigated without any of its structures being shown really possible, so the mathematics loses nothing on this horn. The Platonist rivals themselves are met in §8.1.5, which tests this reading rather than supplying it. A Platonist may hold, with Gödel, that the intended structure is determinate beyond every specification, and that no concrete things could have it. It is then neither a structure things have or could have nor content a specification fixes, so on the account of existence in §1.5 it is no abstractum at all; holding it real refuses that account outright, which the *Scope* note answers.
+1. **Second horn.** If A’s identity is fixed by something over and above its structural position, then that individuator carries no mathematical content, since everything that makes A the abstractum it is (its primality, its successor, its place in the sequence) is structural and was assigned to the first horn. On the account of existence in §1.5, a difference between abstracta describes what distinguishes the things that have, or could have, the structure: where there are two things there are two, and *two* describes that. If an individuator marks A off from a structural duplicate, it describes no difference among any such things, so there is nothing for it to describe, and nothing left over, in the words of the principle that necessary co-extension is uninformative (§2.6.6), “to mark them as two.”
+1. **The sui generis reply collapses into the first horn.** Holding that A is no set, so that Benacerraf’s question of competing reductions (benacerraf1965) does not arise, leaves untouched what distinguishes a sui generis seven from a sui generis eight: its place in the sequence, which is structural position again.
+1. **∴ Every real abstractum is an abstraction of Nature’s articulations or Nature’s own modal standing, and none is a positive differentiator between Reality and Nature.** No individuator survives beyond its structural position.
+
+*Scope.* The fork draws on the account of what an abstractum is in §1.5. If a reader rejects that account and holds that a number exists in its own right, outside time, space, and substance, that reader must deny the Difference Principle, since such a number would differ from structure in nothing (*Existence has one sense*, step 5). That reader refuses the account of existence in §1.5, as a reader does who exempts an atemporal candidate or a non-spatial mind from it (premise 4a), so abstracta open no exit of their own from N = R. The Gödelian of the uninstantiated horn closes the same way by a route that needs nothing from §1.5. Mathematical structure is the structure of what can be counted and measured: how many, in what order, standing in what relations. If no possible plurality could have an intended structure, it would be neither actual nor really possible, since what Reality has room for is what some things could have (§1.2.1). Held real, it would stand beyond Reality, and there is no beyond Reality (§1.1). It is a structure of nothing, not an exception. N = R holds against every abstractum.
+
+### The Difference Principle · Principle (§2.8.2)
+
+A difference is a difference in something: in what some item is, in where or when it stands, in what it bears, or in how it stands to another. If a claimed difference is a difference in nothing, so that every item and every relation would be exactly as it is whether the claim held or not, it is no real difference.
+
+*Scope.* The principle is about what a difference is, not about what can be known; it does not say that an undetectable difference is meaningless. It is close to Armstrong’s Eleatic principle that to be is to make a difference (armstrong1997), stated for differences rather than for existents. The same test holds for a difference in how an item stands to another: it must consist in what the related items are or in what the relation between them consists in. The direction of a dependence is such a difference. Where the direction consists in what the terms are, items alike in what they are stand alike; where it consists in the relation itself, items stand alike if they stand in that relation to the same terms. If nothing in the terms or in the relation fixes a direction, the direction is a difference in nothing. The principle draws on nothing about which items there are or what standing in time, space, and substance involves; the principle that necessary co-extension is uninformative (§2.6.6) is its application to identity claims between necessary relata. Denying the principle is not a rival account of what a difference is. The denier owes an account of what the alleged difference consists in. Either the denier names something (an item, a place or time, what it bears, a relation), and the difference falls under the principle, or names nothing, and then nothing distinguishes the claimed difference from sameness.
+
+### Existence has one sense · The Univocity of Existence (§2.8.2)
+
+1. **A rival holds that some g exists with no when, where, or what of its own**: a Platonic object, an atemporal ground. Either *exists* in that claim has the sense in which a stone exists, or another.
+1. **If another, the second sense is no exit.** If g does concrete work in it, g incurs the conditions at that work whatever the label, by the theorem that concrete work incurs the conditions (§2.4). If g does none, it is the case treated as *abstract existence* in §1.5, which step 4 sorts. A second sense relabels the candidate; it does not remove it from steps 4 and 5.
+1. **If the same, the rival holds that something exists in the one sense a stone does and has no when, where, or what.** The argument secured its cases (§2.2, §2.4.2, §2.5) as witnesses to change, and they are not evidence about his. The claim is his to make good, and steps 4 and 5 ask what making it good would take.
+1. **Any offered case either makes a difference in itself, or makes one only in what depends on it, or makes none.** If the candidate makes a difference in itself, whether change, action, experience, production, or sustaining, that difference is an operation and incurs the full conditions at that operation (Concrete work incurs the conditions, §2.4). Grounding is such an operation when it makes the grounded be, by bringing it into being or driving a becoming in it. A continued thing’s depending on a ground with no becoming to drive is not; it is the middle case. Grounding is not reduced here: it may be sui generis (fine2012; schaffer2009). But where it is not productive, the candidate is registered only in what depends on it, and its dependents are structure the conditions already characterize. Such a candidate is not shown to contribute nothing; it is shown to be available to the argument only as the source of a dependence already present in the grounded. If a candidate makes no difference anywhere, it is, by the Difference Principle, no case of a difference at all.
+1. **If a concreteness marks nothing, it is no difference.** Beside the structure with the same content and the same place in what depends on it, the middle case’s claimed concreteness must differ from that structure in something: in where or when it stands, in what it bears, in how it stands to another, or in what it is. A where, a when, or something borne makes it an occupant, standing in the conditions (§1.5); an operation is excluded by hypothesis, since the middle case makes no difference in itself. Its standing to another can’t differ either. A grounding’s direction is fixed by what its terms are, or by the relation itself: {Socrates} depends on Socrates, and not the reverse, because a singleton is the set whose member he is (fine1994), the case adopted in §1.5.5. Here the grounded term is common to both: the same configurations, being the same way. Either the shared content is a way those configurations are, or it isn’t. If it is, it is structure they have (§1.5), and a thing’s way of being holds because the thing is that way, whatever is said to carry it; the candidate then depends on what it was meant to ground, and its claimed priority is no relation it bears. If it isn’t, the structure with that content is, by the Abstracta Fork, an abstraction of Nature’s articulations or Nature’s own modal standing. One difference is left to claim: the candidate stands in the grounding relation to those dependents and the structure does not. But if one of two items stands in a relation and the other doesn’t, that is itself a difference in how each stands to another, so it must consist in what the items are or in what the relation is. The relation is the same relation, to the same dependents, and a non-productive ground is registered only in them (step 4; for the classical theist this is the doctrine of the mixed relation itself, real in the creature and not in God (aquinas1947, I.13.7)); the two items share every content and differ in no when, where, bearing, or operation. Nothing in either term or in the relation fixes that the candidate, rather than the structure, is the one that grounds: if the relation itself carries a direction, it carries it for both. If nothing in either term or in the relation fixes a direction, that direction is, by the Difference Principle, no difference. Its content can’t differ either: the two share it. A reader may still hold the two primitively distinct, with the candidate the relatum because it is *this* item. That is the primitivist’s move: it counts by occupants rather than by standings, reverses the order of the account of existence in §1.5, and denies the theorem that what tells things apart is structure (§2.4.8, the Concrete Individuation Fork). Short of that, with none of these, its concreteness is, by the Difference Principle, no real difference, and the candidate is the structure step 4 sorts. Nothing could confirm it over its absence either, since it has a difference left only in what depends on it, which is equally available to its absence; that is a further point, not the ground of the result.
+1. **∴ Existence is univocal: its one sense is occupying Reality (§1.5),** and to occupy Reality is to stand in time, space, and substance. A rival either speaks of another sense, which does not remove his candidate from step 4, or holds that something in the one sense stands outside the conditions, which step 5 shows is a structure under another name.
+
+*Scope.* The defense deferred in §1.5 is given here; it does not rest on what can be confirmed, and draws on the Difference Principle. Denying that principle means holding that a difference can be a difference in nothing: for a candidate whose difference from structure is claimed in no place, time, bearing, relation, or content, a concreteness that marks nothing, and that nothing could confirm over its absence. If a reader keeps the candidate apart by primitive thisness alone, that reader denies the theorem that what tells things apart is structure instead (§2.4.8). The classical candidate claims one difference more, subsistence, existing in itself rather than in another. That reply joins several marks, and two of them are Nature’s too. Nature exists in no other: it is the whole within which membership is possible (§1.1), and it structures its articulations, not ingredients placed into it. Its necessity is unreceived: it follows from what it is (§2.4.5), and a claim of its receipt from the ground is a claim about the direction of grounding, which step 5 shows runs alike for the ground and the structure sharing its content. Pure act is the one mark left to differ, and every way of holding it ends in structure or in Nature under another name (§10.2.2). A classical theist’s sui generis grounding is granted; granting it does not take the ground outside the conditions, since a productive ground operates and a non-productive one is registered only in what depends on it. Particular descriptions of such a candidate are tested on their own terms in §10.2.
+
+### Univocal Existence · The Concreteness Fork (§2.8.2)
+
+1. **Let g be any real candidate other than the field itself.** Either g has a when, a where, and a what of its own, or it is assigned some concrete operation—change, action, experience, creation, sustaining, intervention, or efficient production—or it has neither.
+1. **If it has a when, a where, and a what,** it stands in time, space, and substance and is an occupant (§1.5).
+1. **If it is assigned a concrete operation,** it incurs the full conditions at that operation: a when in the order of the act, a where distinguishing its terms, and a what bearing the difference across it (Concrete work incurs the conditions, §2.4). It too is an occupant.
+1. **If it has neither but has determinate content,** it lacks both marks that set a concrete item apart from structure. A candidate with determinate abstract content and no concrete operation is an abstractum (*Concrete work incurs the conditions*), and the Abstracta Fork places every real abstractum within Nature. If a candidate’s only role is to ground without producing, sustaining included where it drives no becoming, it is registered only in what depends on it, which is structure the conditions already characterize (the Univocity of Existence, step 4).
+1. **Calling such a candidate concrete adds nothing.** If a concreteness consists in no location and no operation, it is a difference in nothing from a structure with the same content, and by the Difference Principle it is no real difference.
+1. **If it has no determinate content,** it is no candidate at all but the Null State (§2.7).
+1. **∴ Every real item other than the field is an occupant, standing in time, space, and substance, or an abstractum within Nature.** This is Univocal Existence, premise 4a of the identity argument, now derived rather than assumed.
+
+*Scope.* A candidate is placed here, not tested on whether a description of it survives. Non-causal metaphysical grounding is not among the operations named by the theorem that concrete work incurs the conditions, so if a candidate’s only role is to ground without producing, it falls under step 4 and is structure; no such structure is a rival ground (§2.9.2, No unconditioned ground). If a reader still wants a non-abstract item outside the conditions that differs from structure in nothing, that reader must deny the Difference Principle: by step 5 here and by the Univocity of Existence, step 5, such an item differs in nothing from a structure with the same content. A reader may keep it apart by primitive thisness alone, but then denies the theorem that what tells things apart is structure (§2.4.8); if the reader claims it differs only by subsisting, it differs only as pure act, where every way of holding it ends in structure or in Nature under another name (*Subsistens owes what it subtracts*, §10.2.2).
+
+### Reality is Nature · Line 13 of the Cogito-to-S5 Pipeline (§2.8.3)
+
+1. **Reality is the whole within which any real content belongs** (§1.1).
+2. **Anything real has a determinate possible way to be, and every such way lies within Nature’s modal structure.** Any actual state or item is really possible; any proposed nonactual candidate must at minimum have a determinate really possible way to be (§1.2.1). Reality’s necessary modal constitution is Nature: Nature is by definition the joint complex T ∧ S ∧ Φ (§1.4.4; the structure-wide clause of §2.6.10), and that complex necessarily constitutes Reality’s modal structure (§2.5).
+3. **A concrete occupant within change-realizing structure is not a second ingredient added to the conditions.** It is those conditions in determinate operation; its configuration articulates Nature rather than standing alongside it (§2.6.8).
+4. **Abstracta belong to Nature** (the Abstracta Fork, §2.8.1). Any real abstractum is an abstraction of Nature’s articulations or Nature’s own modal standing, and on the account of existence in §1.5 no individuator survives beyond its structural position. Within the articulated domain, the identity holds because the nature of a thing is a feature of Nature (§2.6.12). The *No Independent Abstract Realm* premise is the fork’s conclusion, not a further input.
+
+4a. **Any real non-abstract item exists, and to exist is to stand in time, space, and substance** (*Univocal Existence*, derived by the Concreteness Fork in §2.8.2, with the definition of Existence in §1.5). The modal structure itself isn’t such an item: it is what existents stand in, not one more occupant of it (§2.6.1: a structure isn’t a thing alongside the things it structures). Any other such item is a concrete occupant (Concrete(x) =df T(x) ∧ S(x) ∧ Φ(x), §1.5; restated in §2.9.2). To stand in ordered succession is to have a position in a passage of one state and then another, which is change in its minimal form (§1.3); so the occupant stands within the change-realizing structure premise 3 covers (§2.6.8), whether or not it changes itself. Every real item other than the modal structure is therefore an occupant under premise 3 or an abstractum under premise 4.
+
+5. **A putative internal residue cannot be both positively individuating and absent from the complete structure.** If it positively differentiates one realizer from another, that differentiator is further structure: structure in the §2.6.1 sense, the one in which what tells things apart is structure, an articulation of T ∧ S ∧ Φ, or of order, difference, and bearing of some kind. And the allegedly complete profile was incomplete. If no positive differentiator is supplied, the realizers share one when, where, and what, and the theorem that what tells things apart is structure excludes their being two (§2.4.8).
+6. **Calling a candidate Nature’s ground does not move it outside the field.** Whether g grounds Nature, is grounded by Nature, or stands in no grounding relation to it, a real g still needs a determinate way to be; that way is already evaluated within Nature’s modal structure (§1.5.5). If asserted, a grounding relation is itself a structured dependence.
+
+6a. **Read as the totality, Nature is the field together with all its determinate articulations and their abstractions; and maximal wholes with the same contents and no positive differentiator are one.** The first fixes what that reading means: it extends the definitional clause of the theorem that Nature is time, space, and substance (§1.4.4; §2.6.10) from the complex to whatever articulates it, as each *nature of X* is read as a feature of N (§2.6.12). The second is the no-surplus clause of the principle that necessary co-extension is uninformative (§2.6.6), the clause that holds apart from the necessity of the relata, applied to Reality and Nature; the theorem that what tells things apart is structure excludes a bare numerical remainder between them.
+
+7. **∴ No domain beyond Reality and no nonstructural residue within it remains.** Every real content is the modal structure itself, a determinate articulation of it, or an abstraction of such an articulation (premises 1–6, with 4a making the division into occupants and abstracta exhaustive); every such content belongs to Reality (premise 1). By 6a, for the modal structure and the maximal totality, Nature is identical to Reality: N = R.
+
+### Nature is necessary · Theorem (§2.9.1)
+
+Reality is Nature taken as field and totality, and temporality, spatiality, and substantiality constitute it under every modal evaluation. The structural constraint is necessary: it permits change and precludes its contradictory collapses. Nature is necessary: time, space, and substance as one structure, apprehended through three readings. (N = R) ∧ □(T ∧ S ∧ Φ).
+
+### Isolation is not separation · Theorem (§7.2.3)
+
+Given that what tells things apart is structure, and given that Reality is Nature, no Lewisian plurality constitutes a second modal domain or a plurality of rival maximal totalities. If worlds differ through any positive qualitative, relational, or nonqualitative ground, that differentiating structure belongs to the one Reality–Nature and the worlds are configurations within its modal structure. If the count is instead brute, the proposal denies the theorem that what tells things apart is structure, which the Concrete Individuation Fork proves (§2.4.8), rather than falsifying the conclusion while retaining its premises. Isolation removes causal and spatiotemporal connection; it supplies no alternative frame. Lewisian plurality is therefore closed as a countermodel to the identity and unicity results. If a brute count is kept by rejecting the account of existence in §1.5, it is still a count of occupants inside Nature, not a second domain (§2.4.8).
+
+## Grounds and divine candidates
+
+### No unconditioned ground · Proposition (§2.9.2)
+
+If a candidate grounds concrete change-realizers without doing concrete work and without a when, a where, or a what of its own, it is structure, and so is an abstraction of Nature’s articulations or Nature’s own modal standing:
+
+- Taken as the structure of what it grounds, it depends on what it grounds.
+- Held prior to what has it, it is the independent abstract object of the Abstracta Fork’s second horn.
+- Taken as the structure of other configurations, it is Nature grounding Nature.
+- Taken as modal standing, it is a feature of the modal structure that T, S, and Φ characterize (§2.5).
+
+In no case is it a ground of concrete change standing apart from the conditions.
+
+*Scope.* The result holds given the account of existence defined in §1.5 and defended by the Univocity of Existence (§2.8). If a reader denies that account, the reader must deny the Difference Principle with it: if something exists in the sense a stone exists, makes no difference in itself, and is registered only in what depends on it, it differs in nothing from a structure with the same content. If a reader keeps the candidate apart by primitive thisness alone, that reader denies the theorem that what tells things apart is structure instead (§2.4.8); if a ground is said to differ from structure only by subsisting, it differs only as pure act, where every way of holding it ends in structure or in Nature under another name (§10.2.2). Sui generis grounding is granted throughout; granting it supplies no ground outside the conditions.
+
+### No Unstructured Ground · The Changeless-Ground Dilemma (§3.1.1)
+
+1. Suppose a *changeless* ground, a being or principle on which changes depend but which doesn’t itself undergo transition.
+1. Its changelessness doesn’t imply ¬◇C: if grounded changes occur or are possible, they themselves witness ◇C.
+1. The open question is whether the ground can perform a grounding role while lacking every structural role involved in that role.
+1. Grounding is a relation, so the fork runs on the candidate’s relation to the changes, and its three branches are exhaustive. (a) The changes don’t depend on it: then, whatever intrinsic character it has, it grounds nothing and isn’t a ground of change. (b) They depend on it and it also depends on them, as on symmetric or mutual-dependence views: it is still a distinct relatum (D) of a dependence that obtains (B). (c) They depend on it and it doesn’t depend on them: it is then also the prior relatum (O). The theorem’s G-Order premise (§3.1) puts every ground of change on (c); without it, (b) stays open and still concedes D ∧ B. On (b) and (c) the candidate is one of the terms in order, difference, and bearing, D ∧ B on every grounding branch and O ∧ D ∧ B on the directed one, though that doesn’t yet establish full temporal succession, spatial extension, or cross-interval persistence in the ground itself.
+1. ∴ A wholly unstructured changeless ground cannot ground change: a candidate concedes D ∧ B on every branch on which it grounds anything, and O where the grounding runs one way. A structured but non-changing ground remains a live type-level proposal for later engagement. The dilemma therefore reinforces the requirement of order, difference, and bearing; it doesn’t independently establish □◇C.
+
+### Grounding requires differentiated terms · The Ground Is Not Exempt (§3.1)
+
+1. **Grounding anything already requires difference and a bearer; grounding change also requires order.** Any grounding relation Grounds(x,y) requires real differentiation of x from y (D) and a real fact or realizer in which the relation obtains (B): even on symmetric-dependence views, mutually dependent relata are two, and their dependence obtains. Add **G-Order**: grounding of change is a strict partial order, so if g grounds c, c doesn’t ground g, and no item grounds itself. If c also grounded g, citing g wouldn’t explain why c obtains rather than not, since g’s own obtaining would await c. A ground of change also has asymmetric priority (O). G-Order is contested for grounding in general. Jenkins (jenkins2011) questions irreflexivity, a dissent confined to weak ground in §7.2.1; Rodriguez-Pereyra (rodriguezpereyra2015) and Barnes (barnes2018) defend symmetric grounding, which the explanatory-asymmetry argument just given answers. Without G-Order’s asymmetry the D ∧ B half of the conclusion still stands.
+1. **That requirement holds at every level of the stack, including the bottom one.** Whenever Grounds(x,y) holds, at any level of an ontological stack, the ground is one of the terms in those roles: it is the distinct term (D) of a dependence that obtains (B) and, under G-Order, its prior term (O). These are features of the relation the ground stands in, not intrinsic properties ascribed to it.
+1. **∴ A ground of change cannot be exempt from what grounding requires.** Any coherent ground of actual change is one of the terms in directed order, differentiation, and bearing, written O ∧ D ∧ B (§3.2), not T, S, and Φ as the proof specifies them.
+
+*Scope.* The line doesn’t by itself identify their concrete types. Temporal succession, spatial extension, and cross-interval persistence require the separate realizer arguments developed later.
+
+### No Unconditioned Essence · Theorem (§7.2.1)
+
+Three readings exhaust what *essence* could add to a bearer. If *essence* names the bearer’s constitutive truth or an essential-dependence relation, every real bearer, fact, and relation belongs to Reality and therefore, since Reality is Nature, to Nature. If *essence* names a distinct ground, that ground and its grounding relation are further real candidates; the result that grounding requires differentiated terms gives the relation determinate roles, and the theorem that Reality is Nature places both relata and the relation within Nature. If it names neither a constitutive truth nor a determinate ground and relation, no ground has been specified. A thing’s nature may therefore be explanatorily prior to modal truths about it, but *essence* is never an independently constituted entity prior to its bearer, outside Nature, or added to Nature. Nature may have an essential constitution; that constitution is what Nature is, not something standing behind it.
+
+### Subsistens owes what it subtracts · Proposition (§10.2.2)
+
+The positive pole names God *ipsum esse subsistens*, existing in itself rather than in another, not a composition of parts holding each other up. The account of persistence through substance is a further argument, not a meaning the word already concedes. The apophatic pole still subtracts substance among the rest along its ladder of unknowing. Something survives, and it is then either doing concrete work or doing none. If it does concrete work, substance is at that work, since concrete work incurs the conditions. If it does none, it is structure (Concreteness Fork, §2.8), and then it is Nature’s own structure or modal standing or depends on what it grounds. Either way the subtracted ground is no ground apart from substance (given the account of existence defended in §2.8). If a defender holds that subsistence is a further difference, a mode of being rather than a place, time, bearing, relation, or content, that defender owes what such existing in itself consists in without a when, a where, or a what. Until that is said, the reply names no difference at all, and a difference in nothing is no difference (The Difference Principle, §2.8).
+
+### The positive-existential premise · Argument, stated in prose (§10.2.1)
+
+The second reason isn’t a stipulation; it is the truthmaker demand the doctrine already honors. *God isn’t nothing* is either true in virtue of something on the divine side (a *fundamentum in re*, some feature answering to the distinction), or it is a distinction drawn in our concepts alone, with nothing in God answering to it. The seventh question presses the first horn for the attribute-predicates: *good* and *omnipotent* are true of God only if they track something real about him.
+
+The existence-predicate isn’t exempt.
+
+If a *fundamentum* distinguishes God-existing from the Null State, determinacy has been conceded. That difference isn’t yet spatiality; it establishes only that the candidate isn’t wholly indeterminate. If nothing answers to it, then nothing on the divine side makes *God isn’t nothing* true rather than false. In that case the positive existential (the statement that God exists) lacks the foundation in re the tradition invokes for the divine names.
+
+### No Third Option Between Contrastive and Empty · Disjunction (§10.2.1)
+
+The eminent-containment retreat holds that God’s perfections are present not as ways of being but as positive plenitude, containing without structure what creatures have in structured form. If content is genuinely positive, it is determinate, thus and not otherwise, which is contrastive: it excludes its own privation. Does the eminent content exclude anything?
+
+- **If it is determinate and contrastive,** then it reinstates order, difference, and bearing under the name *eminence*.
+- **If it excludes nothing,** then it is ∅.
+
+By the Difference Principle, and on the doctrine’s own commitments because a positive existential has a *fundamentum in re* (stated above), there is no positive content that is neither.
+
+### Analogy enlists the structure it was built to avoid · Diagnostic (§11.8.3)
+
+Analogical predication needs a constitutive relation between attribute and bearer on the divine side, or the proportion isn’t a proportion *of* anything—and strong simplicity has factored exactly that relation out at the divine pole. Analogy rests on causal grounding, and that grounding is itself structurally constituted: asymmetric production, distinct cause and effect, a productive act carried across the distinction. Those are demands of order, difference, and bearing, not yet clock-time, metric space, or physical transmission. But where that production terminates in creatures, it is concrete work and incurs the full conditions there. If a grounding does no such work, it is structure: the structure of what it is said to ground, and so dependent on it; Nature’s own structure; or Nature’s modal standing (§2.9.2). The device preserves the predicates by recruiting, in its own grounding, the structure it was introduced to let the subject do without. It doesn’t fail by saying too little. It succeeds only by quietly requiring what it denies.
+
+### Silence or Speech, Not Both · Disjunction (§10.3.2)
+
+Strict apophasis preserves the One’s transcendence by withdrawing every predicate, including the predicate of being a ground. Is a determinate grounding relation asserted?
+
+- **If no determinate grounding relation is asserted,** then there is no object-level claim here to refute, but nothing has been said either.
+- **If emanation, sourcehood, or dependence are retained as determinate claims,** then they incur the grounding-role burden.
+
+The One cannot both stand as a structured ground and decline every predicate that would make it one.
+
+### No Outside Selector · Theorem (§10.4)
+
+No real selector stands outside Nature or constitutes an independently formed addition within it. A real selector and any determinate selection relation are aspects of Reality–Nature. They may explain which subconfiguration obtains, conditional on the selector and relation, but they cannot explain the actuality of the total configuration from a position beyond Nature or added within it. A concrete selector or operation is T, S, and Φ in determinate operation; an abstract or atemporal selector is structure (Concreteness Fork, §2.8), so it is Nature’s own structure or modal standing or depends on the configurations it would select among; an unspecified selector supplies no selection. Selection can therefore be an internal explanation of configuration, not an external source of total actuality.
+
+### No Divine Addition · Theorem (§11.10.3)
+
+A God must be possible if it is claimed to be actual or necessary; any possible God must have a determinate way to be. Every determinate way belongs to Reality’s one modal structure, which is Nature. By constitutive non-addition, the candidate is therefore Nature itself, Nature in a determinate operation, or an abstraction of such an articulation—not an independently constituted being inserted within Nature or standing outside it. Invoking divine essence does not reopen either location: the candidate’s essence may explain its modal truths, but No Unconditioned Essence establishes that *essence* is not a second entity prior to the candidate or additional to Nature. Every real bearer and essential-dependence relation is natural. If no determinate content answers to the description, no possible divine candidate has been specified.
+
+*Scope.* Field inclusion closes a candidate standing outside Nature, and constitutive non-addition closes one inserted within it, given the account of existence the Univocity of Existence defends (§2.8). Bare thisness supplies no exception beyond Nature: if it positively individuates, it is differentiating structure; if a bare count is asserted without a positive individuator, it denies that what tells things apart is structure, and even then counts only inside Nature. Existing in itself and existing unreceived do not distinguish a ground from Nature. If pure act grounds contingent effects, it meets one of the Three concessions for active power, and each ends in structure or in Nature under another name (*Subsistence is Nature’s too*, §10.2.2). A further sense of subsistence must specify its alleged difference; the word alone supplies no additional candidate.
+
+### No Supernature · Theorem (§11.10.3)
+
+No concrete act, change, experience, intervention, causal production, or selection occurs outside temporality, spatiality, and substantiality, since change requires all three (§2.4). If a proposed deity performs such work, it is T, S, and Φ in determinate operation and cannot be the concrete exception to Nature the classical exterior picture requires. A determinate atemporal or analogical ground is an abstract structure of Nature, not a source beyond it; if it is invoked to explain concrete actuality without doing concrete work, it is Nature’s own structure or modal standing, or depends on what it was meant to ground. If a strict set withdraws every determinate feature, truth condition, and relation, it supplies no specified subject or ground. Neither alleged remainder survives: no independently constituted deity stands outside Nature or is added inside it (No Divine Addition). Selection may explain an internal subconfiguration, but not total actuality from a position beyond Nature or added within it (No Outside Selector). There is therefore no supernature: no second domain, exempt concrete agent, additional divine bearer, unconditioned essence, or selector or source of determinate effects beyond Nature.
+
+*Scope.* Bare thisness and a second reality supply no remainder beyond Nature: a positive individuator is structure, and anything real belongs to Reality (What tells things apart is structure, §2.4.8; §1.1; §10.2.2). If a primitive count rejects the account of existence, it remains a count inside Nature, not a second domain. The subsistence and pure-act replies meet one of the three concessions, and each ends in structure or in Nature under another name (Subsistence is Nature’s too; Three concessions for active power); incurring one of them is no contradiction, and it establishes no source beyond Nature. Constitutive non-addition rests on the account of existence defended in §2.8.
+
+## Mind and moral claims
+
+### Metaphysically sufficient conditions bind necessarily · Theorem (§2.9.4)
+
+Where P is metaphysically sufficient for Q—where no possible realization of P lacks Q—the relation is a structural constraint rather than a local regularity: □(P → Q). No possible realization of P lacking Q is the real impossibility of P ∧ ¬Q, and, since possibility and impossibility never vary, that impossibility holds under every evaluation (¬◇P → □¬◇P), so the constraint cannot lapse with the configuration from which it is assessed.
+
+### No Complete Duplicate Without Feeling · Proposition (§5.1)
+
+Take an organism that feels something, and a second being in exactly the same internal state at that moment, in every temporal, spatial, substantial, and relational respect. The second being has that feeling too. Experiencing is a concrete operation with its own when, where, and what, so a complete structural duplicate has an episode of the same kind, and by the sufficiency theorem the complete configuration is sufficient for it necessarily. If two beings feel differently, they therefore differ somewhere in their structure. The duplicate is a second being with its own episode: it differs from the first in where and when it is, which is what makes it a second one (§2.4.2). The open question is whether a duplicate of the *functional* configuration alone is complete in that sense, which is the identity question argued here; on either answer the feeling is part of the organism’s structure, not a remainder outside it. The result doesn’t decide between physicalism and naturalistic dualism: on the account of existence in §1.5, phenomenal properties are structure within Nature on either view. The result rules out a feeling outside Nature, not a feeling beyond physics.
+
+### A claim against harm recognizes that similar harm to others gives reasons · The Claim Turned Back (§5.14.3)
+
+1. **A claims that B ought not to do X to A, on the ground that X would harm A in some respect F**: an aversion, a loss of possibility, a damaged stake.
+1. **The claim asks B to count F-in-A as a reason for B.** Otherwise it is not a claim on B but a report, a threat, or an appeal to a concern B already has.
+1. **A has recognized that F in one subject gives reasons to another.**
+1. **Suppose A refuses to count F-in-B, relevantly similar, as a reason for A.** A can cite only one difference between the cases, which of them is A: first-person location, which gives A access to a reason, not a different ground.
+1. **∴ Unless A can name a relevant difference in F, A’s own claim commits A to giving B’s F the consideration A asks for A’s.** That is the reciprocity/equal-standing bridge, recognized in the act of claiming rather than assumed.
+
+*Scope.* The argument reaches every agent who makes moral claims on others. It does not by itself reach an egoist who makes none, who threatens or only appeals rather than claims. That speaker gives up any complaint when refused: if B doesn’t share the concern appealed to, B has, by the speaker’s own lights, done no wrong. Evidence, not argument, settles whether a given being bears F.
+
+### The nonclaimant and the secret defector · Argument, stated in prose (§5.14.3)
+
+If the egoist is left outside, he has more than one route. Where he depends on the safeties of a cooperative order without special insulation, his aversions give him a prudential reason to preserve the rule: a world where no one cooperates leaves him exposed too. A claimed special exemption brings him under the argument, because it asks others to honor a ground he refuses to honor in them. But force need not make a claim. If an agent is protected from the costs he imposes, he can dominate openly while treating others’ reasons as obstacles rather than reasons. The cooperative order must constrain him, not pretend that self-interest or the performative theorem has persuaded him. The unseen defector is another case: he accepts the shared rule and breaks it secretly. Glaucon pressed this case with the ring of Gyges (*Republic* II, 359c–360d), and Hobbes’s Foole and Gauthier’s constrained maximizer (gauthier1986) were built to meet it. Neither coercion nor secrecy supplies a justification for the harm. The theorem remains conditional on a moral claim, while institutions answer conduct that argument alone doesn’t change.
+
+# The strength of each result beyond the core theorem
+
+- **Moments differ only by what fills them.** Instants are told apart by what occupies them
+  (§2.4.9). Holding them primitively individuated rejects the account of Time
+  in §1.4.1. The lemma feeds *Sufficiency of Structure*, the converse
+  direction, not □(T∧S∧Φ). The permutation test in §3.2.2 reaches the same
+  verdict from independent materials.
+- **The G-Order premise.** The order limb of *Grounding requires differentiated terms*
+  assumes that grounding of change is a strict partial order (§3.1). The
+  book engages it for grounding in general in §7.2.1.
+- **Consciousness.** Strict: the present first-person episode is actual,
+  ordered, differentiated, and borne (§5.1), and no complete duplicate of a
+  feeling organism lacks the feeling (*No Complete Duplicate Without
+  Feeling*, §9.1). Abductive, and labeled so: that consciousness *is* what
+  integrated self-producing life is like from within (the *Consciousness*
+  Identification box, §5.1). The warrant is
+  biological continuity, multiple realization, explanatory economy, and the
+  fit between feeling and fitness.
+- **Morality.** *A claim against harm recognizes that similar harm to others gives reasons* (§5.14.3): anyone who claims
+  that another ought not harm them has already counted harm as a reason. *No
+  Arbitrary Self-Exemption* then binds every agent who makes moral claims. The
+  book states its reach: it does not reach an egoist who makes no claims, or
+  the secret defector, whom institutions answer rather than argument. Hume's
+  boundary stands, since the bridge is recognized in claiming, not derived from
+  descriptive facts.
+- **Politics (Chapter 6).** Not derived from the modal proof. It rests on what
+  claiming authority commits an institution to: *Justified authority counts the kind*, *Claim or Threaten*, *Foundation Priority*, and *The
+  Rule-Setter's Duty* (§6), and *Equal Votes for All Who Are Bound* (§6.3). The
+  predictions in §6.4.3 are kept with their failure conditions in Appendix D,
+  which says they test a political application, not the Chapter 2 proof.
+- **The cosmic cycle.** The cycle follows in every world satisfying either of
+  two sufficient premise-sets, so the result is □(routes → cycle), not
+  □(cycle) (*The universe cycles*, §4.6.5). *Endless Productive
+  Continuation* is adopted, not derived. The first route leaves finite
+  turnaround and global restoration to physics; the second owes a finite
+  phase quotient instead. Identifying each compression phase with the Big Bang
+  needs further conditions. □◇C does not supply either route's actuality.
+- **No first moment.** *The First-State Dilemma* (§4.6): given the
+  realization premise, every contingent earliest state has an earlier one, and
+  a first moment survives only as a necessary concrete configuration, which no
+  position the book engages supplies. The realization clause, the physical
+  reading of the principle of sufficient reason, is adopted rather than
+  derived (§8.2.1). The dilemma settles the order-type at the near end, not
+  the past's duration.
+- **Sufficient reason for the whole.** No real selector outside Nature can
+  pay the demand (*No Outside Selector*, §10.4). It is met from within *given
+  the cycle* (§8.2.1): each phase is produced by a different, earlier phase
+  (*Conditional Phase Recurrence*, §4.6.5). So it inherits the cycle's
+  premises.
+- **Physical realizers.** Spacetime, fields, conservation, and symmetry are
+  examined as realizers of the roles (§4.5). The strict constraint holds
+  across every layer, but no realizer is claimed to be unique: the
+  *Convergence-Realizer Profile* fixes the role-shape of any cosmic
+  convergence without identifying it with one mechanism, and life's origins
+  are left to biology (§4.9).
+- **Chapters 4–6.** Appendix C sorts every claim into modal/structural
+  results, downstream identifications defended by fit, and empirical or
+  political applications. Chapter 5 is a modal account of experience, not a
+  fresh deduction from the proof. Dependencies never point forward, so
+  nothing in Chapter 2 rests on these chapters.
